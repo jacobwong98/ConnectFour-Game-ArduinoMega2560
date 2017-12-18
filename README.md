@@ -6,9 +6,6 @@ Accessories:
 - USB cable, A-B style
 - Adafruit ILI9341 breakout board
 
-References:
-Used and modified code from touch_coordinates from Zac's drive and from Assignment 1 Description
-
 
 Wiring Instructions:
 Instructions to wiring the Adafruit_ILI9341 screen.
